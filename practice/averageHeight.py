@@ -22,6 +22,5 @@ length = 0
 
 for total in student_heights:
     sumOf += total
-for sums in student_heights:
     length += 1
 print(round(sumOf/length))

@@ -7,6 +7,6 @@
 
 #Write your code below this row 👇
 total = 0
-for evenSum in range(0,101,2):
+for evenSum in range(2,101,2):
     total += evenSum
 print(total)
